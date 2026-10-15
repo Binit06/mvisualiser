@@ -1,0 +1,7 @@
+*.out
+tags
+main
+tests/
+images/
+music/
+notes/
